@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: emxdv59ff-java-quarkus-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/emxdv59ff-java-quarkus
